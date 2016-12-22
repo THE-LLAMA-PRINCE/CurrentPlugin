@@ -1,0 +1,3 @@
+name: CardJitsu
+main: card.jitsu.llama.MainClass
+version: 1.0
