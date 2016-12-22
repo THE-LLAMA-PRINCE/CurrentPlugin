@@ -1,9 +1,0 @@
-#ServerWelcome, By THE_LLAMA_PRINCE
-Server Welcome Version: 1.0
-Enable Server Welcome: true
-Enable Player Join Message: true
-Player Join Message: "&bThis is the default Join Message, change it!"
-Enable Player Join Broadcast: true
-Player Join Broadcast: "&aThis is the default Join Broadcast, change it!"
-Enable Player Leave Broadcast: true
-Player Leave Broadcast: "&6This is the default Leave Broadcast, change it!"
