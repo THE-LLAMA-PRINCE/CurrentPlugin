@@ -1,0 +1,118 @@
+#ServerWelcome, By THE_LLAMA_PRINCE
+Server Welcome Version: 1.0
+Enable Server Welcome: true
+Permission Denied Message: "&cYOU DO NOT HAVE PERMISSION TO USE THIS COMMAND!"
+Enable Player Join Message: true
+Player Join Message: "&b<player>, Welcome! This is the default Join Message, change it!"
+Enable Player Join Broadcast: true
+Player Join Broadcast: "&a<player> Has Joined! This is the default Join Broadcast, change it!"
+Enable Player Leave Broadcast: true
+Player Leave Broadcast: "&6<player> Has left! This is the default Leave Broadcast, change it!"
+Absorption On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Blindness On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Confusion On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Damage Resistance On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Fast Digging On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Fire Resistance On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Glowing On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Harm On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Heal On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Health Boost On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Hunger On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Increase Damage On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Invisibility On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Jump Effect On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Levitation On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Luck On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Night Vision On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Poison On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Regeneration On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Saturation On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Slow On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Slow Digging On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Speed On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+UnLuck On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Water Breathing On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Weakness On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
+Wither On Join:
+    Enabled: true
+    Strength: 1
+    Length: 10
