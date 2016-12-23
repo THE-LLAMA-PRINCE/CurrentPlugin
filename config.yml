@@ -1,0 +1,13 @@
+#ServerWelcome, By THE_LLAMA_PRINCE
+Server Welcome Version: 1.0
+Enable Server Welcome: true
+Permission Denied Message: "&cYOU DO NOT HAVE PERMISSION TO USE THIS COMMAND!"
+Enable Player Join Message: true
+Player Join Message: "&b<player>, Welcome! This is the default Join Message, change it!"
+Enable Player Join Broadcast: true
+Player Join Broadcast: "&a<player> Has Joined! This is the default Join Broadcast, change it!"
+Enable Player Leave Broadcast: true
+Player Leave Broadcast: "&6<player> Has left! This is the default Leave Broadcast, change it!"
+Absorption On Join: true
+    Strength: 1
+    Length: 10

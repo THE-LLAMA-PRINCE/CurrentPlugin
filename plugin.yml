@@ -1,0 +1,13 @@
+name: ServerWelcome
+main: welcome.llama.welcome.MainClass
+version: 1.0
+commands:
+    swjoinmsg:
+        description: Shows you your welcome msg
+        usage: /<command>
+    swjoinbc:
+        description: Shows you your welcome join bc
+        usage: /<command>
+    swleavebc:
+        description: Shows you your welcome leave bc
+        usage: /<command>
