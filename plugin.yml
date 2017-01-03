@@ -1,0 +1,8 @@
+name: MobStatz
+main: llama.mobstatz.llama.MainClass
+version: 1.0
+commands:
+    mobkills:
+        description: Shows you how many mobs you've killed
+    globalmobkills:
+        description: Shows you how many mobs everyone has killed
